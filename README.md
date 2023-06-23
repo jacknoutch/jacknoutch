@@ -1,3 +1,3 @@
-- 👋 I'm a Classicist, currently studying for a Masters at Durham University.
+- 👋 Among other things, I'm a Classicist, currently studying for a Masters at Durham University.
 - 👀 I’m interested in making digital materials to help people read Latin and Ancient Greek texts.
 - 🌱 I’m currently working on my Master's project, <a href="https://www.vergil.co.uk">vergil.co.uk</a>, an online reader for Vergil's <i>Eclogues</i>. As of 31 Mar 2023 this is live - do check it out and let me know what you think!
