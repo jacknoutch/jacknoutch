@@ -1,3 +1,3 @@
 - 👋 Among other things, I'm a Classicist, most recently having completed a Masters at Durham University.
 - 👀 I’m interested in making digital materials to help people read Latin and Ancient Greek texts.
-- 🖋️ [Notion Blog](https://demodocus.notion.site/Jack-Noutch-23ef77b29f3d8092b3f4f4c9cf6a3cc8)
+- 🖋️ [Blog](https://jacknoutch.github.io/)
